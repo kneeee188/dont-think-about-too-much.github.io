@@ -1,3 +1,3 @@
-# 개발 블로그
+new blog
 
-nodejs 백엔드 관련 된 글을 작성합니다.
+https://medium.com/@make.abundant
